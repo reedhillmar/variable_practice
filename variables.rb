@@ -1,0 +1,9 @@
+name = "Reed"
+city = "Fort Collins, CO"
+age = 32
+pets = 5
+pi = 3.14
+marathon = 26.2
+tired = true
+thirsty = true
+hungry = false
